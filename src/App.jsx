@@ -8253,7 +8253,7 @@ function Sidebar({ active, setActive, recordCount, user, onSignOut }) {
           <Store size={18} color="#fff" strokeWidth={2.3} />
         </div>
         <div style={{ fontFamily: "'Zen Kaku Gothic New', sans-serif" }} className="text-white font-bold text-[15px] leading-tight">
-          連鎖店採購中控台
+          聯成教育採購管理平台
         </div>
       </div>
 
