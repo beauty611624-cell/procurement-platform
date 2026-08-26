@@ -31,7 +31,7 @@ export default function LoginScreen({ onLoggedIn }) {
           <div className="w-9 h-9 rounded-lg flex items-center justify-center shrink-0" style={{ background: "linear-gradient(135deg,#2F6FED,#7C5CFC)" }}>
             <ShieldCheck size={18} color="#fff" strokeWidth={2.3} />
           </div>
-          <h1 className="font-bold text-lg" style={{ color: "#10182B" }}>採購中控台登入</h1>
+          <h1 className="font-bold text-lg" style={{ color: "#10182B" }}>聯成教育採購管理平台登入</h1>
         </div>
         <p className="text-xs mb-6" style={{ color: "#64708A" }}>本系統含機密採購資料，僅限授權帳號登入</p>
 
